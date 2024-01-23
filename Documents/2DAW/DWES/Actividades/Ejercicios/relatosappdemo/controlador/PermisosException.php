@@ -1,5 +1,5 @@
 <?php
-/* Clase permisos Exception */
+/* Clase permisos Exception de Maria*/
  class PermisosException extends Exception {
     
  	var $strTipo;
